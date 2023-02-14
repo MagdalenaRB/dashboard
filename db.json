@@ -1,5 +1,4 @@
-{
-    "product": [
+ [
         {
             "id":1,
             "title": "producto1",
@@ -16,4 +15,3 @@
             "description": "que bonito 3"
         }
     ]
-}
