@@ -2,16 +2,19 @@
         {
             "id":1,
             "title": "producto1",
-            "description": "que bonito"
+            "description": "que bonito",
+            "price":1
         },
         {
             "id":2,
             "title": "producto2",
-            "description": "que bonito 2"
+            "description": "que bonito 2",
+            "price":1
         },
         {
             "id":3,
             "title": "producto3",
-            "description": "que bonito 3"
+            "description": "que bonito 3",
+            "price":1
         }
     ]
